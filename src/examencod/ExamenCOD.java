@@ -13,7 +13,7 @@ System.out.println("Es numero primo");
 else
  System.out.println("NO es numero primo");           	 
           	 
-for (int x=2;x<1000;x++) {
+for (int x=2;x<1000;x++){
 if (metodoMio(x))
 System.out.print(x + " ");                         	 
 }         	 
